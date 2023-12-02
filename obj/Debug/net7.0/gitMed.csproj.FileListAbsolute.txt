@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\gitMed\bin\Debug\net7.0\gitMed.exe
+C:\Users\User\Desktop\gitMed\bin\Debug\net7.0\gitMed.deps.json
+C:\Users\User\Desktop\gitMed\bin\Debug\net7.0\gitMed.runtimeconfig.json
+C:\Users\User\Desktop\gitMed\bin\Debug\net7.0\gitMed.dll
+C:\Users\User\Desktop\gitMed\bin\Debug\net7.0\gitMed.pdb
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.AssemblyInfo.cs
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.dll
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\refint\gitMed.dll
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.pdb
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\gitMed.genruntimeconfig.cache
+C:\Users\User\Desktop\gitMed\obj\Debug\net7.0\ref\gitMed.dll
